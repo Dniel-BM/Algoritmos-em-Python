@@ -41,4 +41,12 @@ https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/04horas_completas.py
 
 ----------------------------------------------------------------------------------------------------------------------------------|
 
+05ver-se-menor-de-idade.py
+Algoritmo que verifica se usuário é maior de idade ou menor de idade
+nivel elementar
+https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/05ver-se-menor-de-idade.py
+
+----------------------------------------------------------------------------------------------------------------------------------|
+
+
 
