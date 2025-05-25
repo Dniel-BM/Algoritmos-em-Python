@@ -7,7 +7,7 @@ Projeto de intuito educacional pretende ser uma biblioteca de Algorítmos na Lin
 
 ##Lista de algoritmos
 
------------------------------------------------------------------------------------------------------------------|
+----------------------------------------------------------------------------------------------------------------------------------|
 
 01media_final: script que recebe 4 notas e retorna a media final
 Fonte:Lógica de Programação com aplicações em Python. Eberspächer e Forbellone. 4a Edição, Pearson, 2022.
@@ -22,6 +22,11 @@ Algoritmo que ordena lista, verifica se certa palavra está na lista e sugera pa
 nivel: elementar
 link:https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/02lista-de-frutas.py
 
+----------------------------------------------------------------------------------------------------------------------------------|
+#03itens_por_pagina
+Calcule quantas páginas são necessárias pelo numéro de itens
+nivel elementar
+https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/03itens_por_pagina.py
 ----------------------------------------------------------------------------------------------------------------------------------|
 
 
