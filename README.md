@@ -10,6 +10,7 @@ Projeto de intuito educacional pretende ser uma biblioteca de Algorítmos na Lin
 ----------------------------------------------------------------------------------------------------------------------------------|
 
 01media_final: script que recebe 4 notas e retorna a media final
+
 Fonte:Lógica de Programação com aplicações em Python. Eberspächer e Forbellone. 4a Edição, Pearson, 2022.
 nivel: elementar.
 link: [01media_final.py](https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/01media_final.py)
@@ -23,15 +24,21 @@ nivel: elementar
 link:https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/02lista-de-frutas.py
 
 ----------------------------------------------------------------------------------------------------------------------------------|
+
 03itens_por_pagina.py
+
 Calcule quantas páginas são necessárias pelo numéro de itens
 nivel elementar
 https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/03itens_por_pagina.py
+
 ----------------------------------------------------------------------------------------------------------------------------------|
+
 04horas_completas.py
+
 calcule as horas completas e o valor a pagar total a partir do valor inserido por hora
 nivel elementar
 https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/04horas_completas.py
+
 ----------------------------------------------------------------------------------------------------------------------------------|
 
 
