@@ -1,5 +1,6 @@
 import math
 #calcule as horas completas e o valor a pagar total a partir do valor inserido por hora
+#nivel elementar
 
 horas_trabalhadas = float(input("Horas trabalhadas: "))
 horas_completas = math.floor(horas_trabalhadas)
