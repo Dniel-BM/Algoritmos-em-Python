@@ -16,20 +16,22 @@ link: [01media_final.py](https://github.com/Dniel-BM/Algoritmos-em-Python/blob/m
 
 ----------------------------------------------------------------------------------------------------------------------------------|
 
-02lista-de-frutas
+02lista-de-frutas.py
 
 Algoritmo que ordena lista, verifica se certa palavra está na lista e sugera palavras proximas na lista (anterior e seguinte)
 nivel: elementar
 link:https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/02lista-de-frutas.py
 
 ----------------------------------------------------------------------------------------------------------------------------------|
-#03itens_por_pagina
+03itens_por_pagina.py
 Calcule quantas páginas são necessárias pelo numéro de itens
 nivel elementar
 https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/03itens_por_pagina.py
 ----------------------------------------------------------------------------------------------------------------------------------|
-
-
-
+04horas_completas.py
+calcule as horas completas e o valor a pagar total a partir do valor inserido por hora
+nivel elementar
+https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/04horas_completas.py
+----------------------------------------------------------------------------------------------------------------------------------|
 
 
