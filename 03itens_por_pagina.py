@@ -1,4 +1,4 @@
-#03itens-por-pagina
+#03itens_por_pagina
 #Calcule quantas páginas são necessárias pelo numéro de itens
 #nivel elementar
 
