@@ -66,3 +66,12 @@ nivel: elementar
 
 https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/06ver-limitVelo.py
 
+----------------------------------------------------------------------------------------------------------------------------------|
+07ver-idadeMin-P-CNH
+
+Algoritmo que verifica idade mínima para tira CNH e corrige usuário caso insira dados
+incompativeis
+
+nivel:elementar
+
+----------------------------------------------------------------------------------------------------------------------------------|
