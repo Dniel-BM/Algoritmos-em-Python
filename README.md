@@ -12,7 +12,9 @@ Projeto de intuito educacional pretende ser uma biblioteca de Algorítmos na Lin
 01media_final: script que recebe 4 notas e retorna a media final
 
 Fonte:Lógica de Programação com aplicações em Python. Eberspächer e Forbellone. 4a Edição, Pearson, 2022.
+
 nivel: elementar.
+
 link: [01media_final.py](https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/01media_final.py)
 
 ----------------------------------------------------------------------------------------------------------------------------------|
@@ -20,7 +22,9 @@ link: [01media_final.py](https://github.com/Dniel-BM/Algoritmos-em-Python/blob/m
 02lista-de-frutas.py
 
 Algoritmo que ordena lista, verifica se certa palavra está na lista e sugera palavras proximas na lista (anterior e seguinte)
+
 nivel: elementar
+
 link:https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/02lista-de-frutas.py
 
 ----------------------------------------------------------------------------------------------------------------------------------|
@@ -28,7 +32,9 @@ link:https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/02lista-de-fruta
 03itens_por_pagina.py
 
 Calcule quantas páginas são necessárias pelo numéro de itens
+
 nivel elementar
+
 https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/03itens_por_pagina.py
 
 ----------------------------------------------------------------------------------------------------------------------------------|
@@ -36,7 +42,9 @@ https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/03itens_por_pagina.py
 04horas_completas.py
 
 calcule as horas completas e o valor a pagar total a partir do valor inserido por hora
+
 nivel elementar
+
 https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/04horas_completas.py
 
 ----------------------------------------------------------------------------------------------------------------------------------|
@@ -44,12 +52,17 @@ https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/04horas_completas.py
 05ver-se-menor-de-idade.py
 Algoritmo que verifica se usuário é maior de idade ou menor de idade, considerando os
 erros que o usuario pode cometer ao utilizar valores incompatíveis
+
 nivel elementar
+
 https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/05ver-se-menor-de-idade.py
 
 ----------------------------------------------------------------------------------------------------------------------------------|
 06ver-limitVelo
-Verifica se velocidade do objeto está dentro do limite de velocidade estabelecido
-nivel elementar
+
+Verifica se velocidade do objeto está dentro do limite de velocidade estabelecido,
+corrija erros de entrada como velocidade 0, valor negativo ou tipo de dado incompativel
+nivel: elementar
+
 https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/06ver-limitVelo.py
 
