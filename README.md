@@ -48,6 +48,8 @@ nivel elementar
 https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/05ver-se-menor-de-idade.py
 
 ----------------------------------------------------------------------------------------------------------------------------------|
-
-
+06ver-limitVelo
+Verifica se velocidade do objeto está dentro do limite de velocidade estabelecido
+nivel elementar
+https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/06ver-limitVelo.py
 
