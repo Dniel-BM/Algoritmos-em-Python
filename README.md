@@ -101,3 +101,14 @@ nivel: elementar
 [https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/08valide-username.py](https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/08valide-username-senha.py)
 
 ---------------------------------------------------------------------------------------------------------------------------------|
+
+
+09filtrarDados-nomeIdade.py
+
+Faça um algoritmo que filtre os dados de uma lista. Separe os dados somente com letras na lista nomes e os dados somente com números na lista idades
+
+nível: elementar
+
+https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/09filtrarDados-nomeIdade.py
+
+---------------------------------------------------------------------------------------------------------------------------------|
