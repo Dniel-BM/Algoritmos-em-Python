@@ -1,9 +1,11 @@
 """
+08valide-username.py
 crie um algoritmo que valide a entrada de dados para criação de usuario,
 de forma a cumprir a condição de receber apanas letras,
 sem espaços ou numeros,
 crie um laço de repetição para que o programa
 volte ao inicio se houver erro
+nivel: elementar
 """
 
 while True:
