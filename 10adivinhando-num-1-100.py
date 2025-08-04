@@ -1,8 +1,10 @@
 """
+10adivinhando-num-1-100.py
 Algoritmo que cria um jogo de adivinhação
 onde o usuario tenta advinhar um número sorteado entre 1 e 100
 com número de tentativas definidos
 e dicas ao longo das tentativas revelando se o número é maior ou menor
+nível: fácil
 """
 
 import random
@@ -29,5 +31,6 @@ while tentativa < limite_tentativas and not acertou:
 
 if not acertou:
     print(f"Game Over! O número sorteado era {numero_sorteado}")
+
 
 
