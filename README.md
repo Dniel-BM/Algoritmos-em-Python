@@ -125,3 +125,11 @@ https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/10adivinhando-num-1-1
 
 ---------------------------------------------------------------------------------------------------------------------------------|
 
+
+11Sistema-de-notas
+
+Algoritmo que recebe diversas notas, recebe como lista, confirma entrada do usuario e calcula a media
+
+https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/11Sistema-de-notas.py
+
+---------------------------------------------------------------------------------------------------------------------------------|
