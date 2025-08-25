@@ -133,3 +133,18 @@ Algoritmo que recebe diversas notas, recebe como lista, confirma entrada do usua
 https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/11Sistema-de-notas.py
 
 ---------------------------------------------------------------------------------------------------------------------------------|
+
+12media-de-lista-notas
+
+Algoritmo que recebe lista de notas, efetua testes e condicoes (float,
+nota > 0) retornando media da lista de notas e quantidade de notas. Criando uma
+interface que confirma ou nao a selecao de notas, retornando para corrigir se
+o usuario indicar. Robusto contra erros como inserir caracteres inadequados na
+entrada de notas, validando os inputs inseridos
+
+link: https://github.com/Dniel-BM/Algoritmos-em-Python/blob/main/12media-de-lista-notas.py
+
+
+---------------------------------------------------------------------------------------------------------------------------------|
+
+
